@@ -85,3 +85,20 @@ but because closure succeeds.
 
 Time acquires direction at the moment when alternatives cease to remain viable.
 What survives defines both history and order.
+
+## Synthesis
+
+The quantum measurement problem, the emergence of classicality,
+and the arrow of time are not separate mysteries.
+
+They arise from a single constraint:
+only descriptions that close can persist.
+
+Measurement is the moment when admissibility is enforced.
+Classical structure is what remains after closure.
+Time acquires direction when alternatives are no longer viable.
+
+Nothing collapses arbitrarily.
+Nothing requires an external observer.
+
+What stabilizes does so because it can.
