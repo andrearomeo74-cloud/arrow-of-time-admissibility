@@ -7,6 +7,20 @@ but as an emergent boundary arising from admissibility and closure constraints.
 Rather than asking why physical processes evolve from past to future,
 the focus here is on a different question:
 
+## Relation to the Congruity Canonical Framework
+
+This repository is a focused application of the Congruity canonical principle:
+
+C = V / (E + I + S)
+
+Here, the framework is specialized to epistemic regimes,
+where admissibility determines whether descriptions, outcomes,
+and temporal order can persist.
+
+No new physics is proposed.
+The role of Congruity is diagnostic:
+to identify when and why closure becomes necessary.
+
 **What conditions allow a direction of time to remain stable and distinguishable at all?**
 
 The central hypothesis is that temporal irreversibility does not originate
