@@ -62,3 +62,26 @@ but the moment at which irreversibility becomes unavoidable.
 
 What is measured is not selected arbitrarily;
 it is what can remain.
+
+## Arrow of Time and Classical Emergence
+
+The arrow of time is often treated as an independent problem,
+introduced through entropy increase, cosmological initial conditions,
+or coarse-graining assumptions.
+
+Within this framework, the arrow of time emerges naturally
+as a consequence of closure.
+
+Reversible dynamics can persist only while descriptions remain open.
+Once admissibility constraints are enforced,
+only irreversible transitions can stabilize outcomes.
+
+Classical behavior is not a separate regime imposed on quantum systems.
+It is the limit in which closure occurs rapidly and redundantly,
+suppressing interference and enforcing persistent structure.
+
+The classical world appears not because quantum mechanics fails,
+but because closure succeeds.
+
+Time acquires direction at the moment when alternatives cease to remain viable.
+What survives defines both history and order.
