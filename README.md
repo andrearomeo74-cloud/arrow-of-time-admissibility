@@ -40,3 +40,25 @@ temporal symmetry breaks, and a directional arrow becomes observable.
 
 Irreversibility, in this sense, is not imposed by dynamics,
 but selected by admissibility.
+
+## Observation, Measurement, and Closure
+
+In quantum theory, the measurement problem highlights a tension between
+continuous, unitary evolution and discrete, irreversible outcomes.
+While the formalism allows superpositions, observations yield definite results.
+
+Rather than treating measurement as a special physical process,
+this framework interprets it as a boundary event:
+the point at which open descriptions give way to closed ones.
+
+Measurement coincides with the enforcement of admissibility.
+Only those states that remain stable under closure constraints
+can persist as observable outcomes.
+
+In this view, the observer is not an external entity imposing collapse,
+but a condition under which closure becomes necessary.
+Observation is not the cause of irreversibility,
+but the moment at which irreversibility becomes unavoidable.
+
+What is measured is not selected arbitrarily;
+it is what can remain.
